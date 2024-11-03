@@ -1,0 +1,104 @@
+{
+  "teams": [
+    {
+      "rank": 1,
+      "team": "Team Alpha",
+      "pontos": 500,
+      "membros": [
+        "Alice",
+        "Bob",
+        "Charlie"
+      ]
+    },
+    {
+      "rank": 2,
+      "team": "Team Beta",
+      "pontos": 400,
+      "membros": [
+        "Eve",
+        "Frank",
+        "Grace"
+      ]
+    },
+    {
+      "rank": 3,
+      "team": "Team Gamma",
+      "pontos": 350,
+      "membros": [
+        "Ivan",
+        "Judy",
+        "Mallory"
+      ]
+    },
+    {
+      "rank": 4,
+      "team": "Team Delta",
+      "pontos": 300,
+      "membros": [
+        "Olivia",
+        "Peggy",
+        "Sybil"
+      ]
+    },
+    {
+      "rank": 5,
+      "team": "Team Epsilon",
+      "pontos": 280,
+      "membros": [
+        "Victor",
+        "Walter",
+        "Xander"
+      ]
+    },
+    {
+      "rank": 6,
+      "team": "Team Zeta",
+      "pontos": 260,
+      "membros": [
+        "Zara",
+        "Amy",
+        "Ben"
+      ]
+    },
+    {
+      "rank": 7,
+      "team": "Team Eta",
+      "pontos": 240,
+      "membros": [
+        "Diana",
+        "Eric",
+        "Fiona"
+      ]
+    },
+    {
+      "rank": 8,
+      "team": "Team Theta",
+      "pontos": 220,
+      "membros": [
+        "Harry",
+        "Isla",
+        "Jack"
+      ]
+    },
+    {
+      "rank": 9,
+      "team": "Team Iota",
+      "pontos": 200,
+      "membros": [
+        "Liam",
+        "Mia",
+        "Noah"
+      ]
+    },
+    {
+      "rank": 10,
+      "team": "Team Kappa",
+      "pontos": 180,
+      "membros": [
+        "Paul",
+        "Quinn",
+        "Rose"
+      ]
+    }
+  ]
+}
